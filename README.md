@@ -3,12 +3,11 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+IT professional with broad experience working with diverse and complex infrastructures, networks, and applications. Recent Cyber Security graduate with a profound passion for solving complex problems while continuing to learn more about the different tools and the ever-changing information security landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+From a very early age I knew that I wanted to work in information technology. Through this journey I've not only gained invaluable knowledge, but also developed a profound passion to continue improving and developing my skills and knowledge in various areas within  IT, such as complex system infrastructures, networking, and information security. My end goal is to be the best information security professional I can be and use my skills and knowledge not only to grow professionally and solve complex security issues but also to serve others. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
