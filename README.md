@@ -1,11 +1,11 @@
 # Hello, I'm Jairo
 <a href="https://www.linkedin.com/in/jpoveda91/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional with broad experience working with diverse and complex infrastructures, networks, and applications. Recent Cyber Security graduate with a profound passion for solving complex problems while continuing to learn more about the different tools and the ever-changing information security landscape.
+Cybersecurity professional with experience across Windows and Linux environments, strong knowledge of networking and the TCP/IP stack, and hands-on work with tools such as Active Directory, Splunk, Nessus, ServiceNow, virtualization platforms, and Wireshark.
 
 ## Objective
 
-From a very early age I knew that I wanted to work in information technology. Through this journey I've not only gained invaluable knowledge, but also developed a profound passion to continue improving and developing my skills and knowledge in various areas within  IT, such as complex system infrastructures, networking, and information security. My end goal is to be the best information security professional I can be and use my skills and knowledge not only to grow professionally and solve complex security issues but also to serve others. 
+I’ve always been passionate about information technology, and over the years I’ve built skills in system infrastructures, networking, and information security. My goal is to grow as a cybersecurity professional, solving complex challenges while using my expertise to make a meaningful impact.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
