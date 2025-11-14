@@ -1,5 +1,7 @@
 # Hello, I'm Jairo
 <a href="https://www.linkedin.com/in/jpoveda91/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6700?logo=tryhackme&logoColor=white)
+
 
 I am a  Cybersecurity professional with experience across Windows and Linux environments, strong knowledge of networking and the TCP/IP stack, and hands-on work with tools such as Active Directory, Splunk, Nessus, ServiceNow, virtualization platforms, and Wireshark.
 
