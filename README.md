@@ -1,6 +1,8 @@
 # Hello, I'm Jairo
 <a href="https://www.linkedin.com/in/jpoveda91/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6700?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jpac91)
+<img src="https://tryhackme-badges.s3.amazonaws.com/jpac91.png" alt="Your Image Badge" />
+
 
 
 
