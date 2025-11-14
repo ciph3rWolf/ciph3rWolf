@@ -1,11 +1,18 @@
 # Hello, I'm Jairo
 <a href="https://www.linkedin.com/in/jpoveda91/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional with experience across Windows and Linux environments, strong knowledge of networking and the TCP/IP stack, and hands-on work with tools such as Active Directory, Splunk, Nessus, ServiceNow, virtualization platforms, and Wireshark.
+I am a  Cybersecurity professional with experience across Windows and Linux environments, strong knowledge of networking and the TCP/IP stack, and hands-on work with tools such as Active Directory, Splunk, Nessus, ServiceNow, virtualization platforms, and Wireshark.
 
 ## Objective
 
 I’ve always been passionate about information technology, and over the years I’ve built skills in system infrastructures, networking, and information security. My goal is to grow as a cybersecurity professional, solving complex challenges while using my expertise to make a meaningful impact.
+
+
+## Education
+<div>
+#### Bachelor's degree in Cybersecurity and Information Assurance - Graduated on June 2024
+    
+</div>
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -52,11 +59,7 @@ I’ve always been passionate about information technology, and over the years I
 
 </div>
 
-## Education
-<div>
-#### Bachelor's degree in Cybersecurity and Information Assurance - Graduated on June 2024
-    
-</div>
+
 
 ## Projects
 - Detection Lab
