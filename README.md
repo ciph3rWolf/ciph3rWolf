@@ -29,7 +29,7 @@ I’ve always been passionate about information technology, and over the years I
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Honey Pot in Azure Cloud | <a href="https://github.com/ciph3rWolf/Tpot/blob/main/README.md"> Honey Pot </a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
